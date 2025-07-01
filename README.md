@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sunwood-ai-labs-source-sage-mcp-server-badge.png)](https://mseep.ai/app/sunwood-ai-labs-source-sage-mcp-server)
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sunwood-ai-labs/source-sage-mcp-server/refs/heads/master/assets/sourcesage-magical.svg" width="100%">
 
